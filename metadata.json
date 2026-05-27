@@ -1,0 +1,6 @@
+{
+  "name": "Pure PDF",
+  "description": "An ad-free, secure, and fast PDF viewer with modern design, recent files history, bookmarks, page jump, and night mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

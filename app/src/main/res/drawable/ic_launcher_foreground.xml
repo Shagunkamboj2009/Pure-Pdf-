@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Main white document body sheet centered in the launcher canvas -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,22h32l16,16v48c0,3.3 -2.7,6 -6,6h-42c-3.3,0 -6,-2.7 -6,-6v-58c0,-3.3 2.7,-6 6,-6z" />
+    <!-- Folded dogear corner -->
+    <path
+        android:fillColor="#D3E3FD"
+        android:pathData="M64,22v16h16z" />
+    <!-- Modern blue horizontal guidelines -->
+    <path
+        android:fillColor="#005AC1"
+        android:pathData="M38,46h32v4h-32z M38,54h32v4h-32z M38,62h22v4h-22z" />
+</vector>
